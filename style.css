@@ -1,0 +1,57 @@
+header{
+    color: white;
+    font-size: 20px;
+    background: #171a21;
+    margin: 0px;
+    display: flexbox;
+    text-align: center;
+}
+
+div.summary {
+    margin: 10px 40px;
+    text-align: center;
+    
+}
+
+div.preamble{
+    margin: 10px 80px;
+}
+
+div.design-selection{
+    margin: 20px 40px;
+    display: flex;
+}
+
+div.design-archives{
+    margin: 20px 40px;
+    display: flex;
+}
+
+div.zen-resources{
+    margin: 20px 40px;
+    display: flex;
+}
+
+h3{
+    text-align: center;
+    color: lightcoral;
+}
+
+
+div{
+    opacity: 80%;
+    color: rgb(88, 31, 156);
+    margin: 20px 40px;
+    background-color: rgb(213, 209, 255 );
+}
+
+body {
+    margin: 80px 40px;
+    background-image: url(img/bg.gif);
+    background-size: 100%;
+
+}
+
+footer{
+    margin: 10px 40px;
+}

@@ -1,8 +1,8 @@
 # CSS Zen Garden: The Beauty of CSS Design
 
-> [Your name]
+> Supakorn Tankaya
 >  
-> [Your ID]
+> 6110450367
 
 ## Task
 
